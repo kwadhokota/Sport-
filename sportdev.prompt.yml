@@ -1,8 +1,0 @@
-messages:
-  - role: system
-    content: You are an Anelyst
-  - role: user
-    content: >-
-      Can you explain how to evaluate the performance of a logistic regression
-      model in predicting binary outcomes?
-model: openai/gpt-4o
