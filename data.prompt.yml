@@ -4,6 +4,6 @@ messages:
   - role: user
     content: >-
       How do I perform a chi-square test in Python to determine if there is a
-      statistically significant association between gender and sport product
+      statistically significant association between gender and sport
       preference?
 model: openai/gpt-4o
