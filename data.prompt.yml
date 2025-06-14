@@ -3,7 +3,6 @@ messages:
     content: You are a Data Anelyst
   - role: user
     content: >-
-      How do I perform a chi-square test in Python to determine if there is a
-      statistically significant association between gender and sport
-      preference?
+      What strategies should I implement for data governance to ensure
+      compliance with GDPR in my data analyses?
 model: openai/gpt-4o
