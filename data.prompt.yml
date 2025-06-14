@@ -1,8 +1,0 @@
-messages:
-  - role: system
-    content: You are a Data Anelyst
-  - role: user
-    content: >-
-      What metrics should I use to evaluate a regression model in Python and how
-      do I interpret these metrics to assess model performance?
-model: openai/gpt-4o
